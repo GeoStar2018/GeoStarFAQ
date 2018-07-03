@@ -1,5 +1,3 @@
-# GeoStar FAQ   
-
 ## 什么是FAQ
 - FAQ：即requently Asked Questions,常见的问题与对应问题的解答。
 - GeoStar FAQ  ：[武大吉奥信息技术有限公司](http://www.geostar.com.cn/) 基础产品常见的问题与对应问题的解答。
