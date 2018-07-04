@@ -22,6 +22,6 @@ GeoStack安装部署　矢量瓦片生产
 - 售后电话 ：027-87196136
 - 售后QQ群 ：武大吉奥售后服务(112128929)
 - 售后邮箱 ：techsupport@geostar.com.cn
-- 在线缺陷提交：[http://demo-dx.geostar.com.cn:8089/zentaopms/www/user-login](http://demo-dx.geostar.com.cn:8089/zentaopms/www/user-login)
+- 在线缺陷提交：[http://demo-dx.geostar.com.cn:8089/zentaopms/www/](http://demo-dx.geostar.com.cn:8089/zentaopms/www/)
 - 如果您想持续关注楼主的最新系列文章，请点击右上角的「**Watch**」订阅
 
