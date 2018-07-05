@@ -12,6 +12,8 @@
 
 ## 最新文章
 - [GeoGlobeServer登录运维时提示“系统数据库中域信息不存在，请检查域信息是否注册”](https://github.com/GeoStar2018/GeoStarFAQ/blob/master/GeoGlobe/Server/%E9%83%A8%E7%BD%B2/%E7%99%BB%E5%BD%95_GeoGlobeServer%E7%99%BB%E5%BD%95%E8%BF%90%E7%BB%B4%E6%97%B6%E6%8F%90%E7%A4%BA%E2%80%9C%E7%B3%BB%E7%BB%9F%E6%95%B0%E6%8D%AE%E5%BA%93%E4%B8%AD%E5%9F%9F%E4%BF%A1%E6%81%AF%E4%B8%8D%E5%AD%98%E5%9C%A8%EF%BC%8C%E8%AF%B7%E6%A3%80%E6%9F%A5%E5%9F%9F%E4%BF%A1%E6%81%AF%E6%98%AF%E5%90%A6%E6%B3%A8%E5%86%8C%E2%80%9D.md) 
+- [GeoGlobeServer发布服务选择数据源时，未加载出数据](https://github.com/GeoStar2018/GeoStarFAQ/blob/master/GeoGlobe/Server/%E5%8F%91%E5%B8%83%E5%8F%91%E5%B8%83/%E6%95%B0%E6%8D%AE%E6%BA%90_GeoGlobeServer%E5%8F%91%E5%B8%83%E6%9C%8D%E5%8A%A1%E9%80%89%E6%8B%A9%E6%95%B0%E6%8D%AE%E6%BA%90%E6%97%B6%EF%BC%8C%E6%9C%AA%E5%8A%A0%E8%BD%BD%E5%87%BA%E6%95%B0%E6%8D%AE.md) 
+
 
  
 ## 热门标签    
