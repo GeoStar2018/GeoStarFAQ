@@ -14,7 +14,7 @@
 - [GeoGlobeServer发布服务选择数据源时，未加载出数据](https://github.com/GeoStar2018/GeoStarFAQ/blob/master/GeoGlobe/Server/%E5%8F%91%E5%B8%83%E5%8F%91%E5%B8%83/%E6%95%B0%E6%8D%AE%E6%BA%90_GeoGlobeServer%E5%8F%91%E5%B8%83%E6%9C%8D%E5%8A%A1%E9%80%89%E6%8B%A9%E6%95%B0%E6%8D%AE%E6%BA%90%E6%97%B6%EF%BC%8C%E6%9C%AA%E5%8A%A0%E8%BD%BD%E5%87%BA%E6%95%B0%E6%8D%AE.md) 
  
 ## 热门标签    
-[GeoGlobeServer服务发布](https://github.com/GeoStar2018/GeoStarFAQ/tree/master/GeoGlobe/Server/%E5%8F%91%E5%B8%83%E5%8F%91%E5%B8%83)　
+[GeoGlobeServer安装部署](https://github.com/GeoStar2018/GeoStarFAQ/tree/master/GeoGlobe/Server/%E5%AE%89%E8%A3%85%E9%83%A8%E7%BD%B2)　[GeoGlobeServer服务发布](https://github.com/GeoStar2018/GeoStarFAQ/tree/master/GeoGlobe/Server/%E5%8F%91%E5%B8%83%E5%8F%91%E5%B8%83)　
  
 ## 快速查找    
 通过【Find file】输入关键字快速查找定位相关问题。
