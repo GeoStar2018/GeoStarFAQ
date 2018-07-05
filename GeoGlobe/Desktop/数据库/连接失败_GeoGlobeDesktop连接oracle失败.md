@@ -4,7 +4,7 @@ GeoGlobeDesktop连接oracle失败。
 
 
 ### 解决方法： ###
-1)检查本机是否安装了32位oracle客户端（GeoGlobeDesktop为32位程序，需要安装32位的客户端），
+1)检查本机是否安装了32位oracle客户端（GeoGlobeDesktop为32位程序，需要安装32位的客户端）；  
 2)oracle客户端安装时是否选择的是“管理员”安装类型；     
 3)检查oracle客户端和服务端的版本是否一致；   
 4)检查Oracle客户端的Net Manager是否能连上数据库 ；     
