@@ -7,7 +7,7 @@ GeoGlobeServer登录运维时提示“系统数据库中域信息不存在，请
 ### 解决方法： ###
 1)检查本机IP是否变化；   
 
-2)检查配置文件和运维数据库信息是否一致   
+2)检查配置文件和运维数据库信息是否一致；   
 ①查看配置文件信息:   
   \deploylocation\deploylocal\ServiceMgr\WEB-INF\webConfig\ConnectionPool.xml文件中的配置的信息  
  ` ConnectionPool name="IP:9010:tomcat" anotherName="domain1" `   
