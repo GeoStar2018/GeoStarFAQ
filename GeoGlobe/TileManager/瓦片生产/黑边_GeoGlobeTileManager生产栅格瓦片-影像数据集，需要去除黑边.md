@@ -1,6 +1,6 @@
 ### 问题描述： ###
 
-GeoGlobeTileManager生产栅格瓦片-影像数据集，需要去除原始影像黑边。
+GeoGlobeTileManager生产栅格瓦片-影像数据集，需要去除黑边。
 
 
 ### 解决方法： ###
