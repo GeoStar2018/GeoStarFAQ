@@ -1,0 +1,8 @@
+### 问题描述： ###
+如何添加Oracle集群数据源？
+
+
+### 解决方法： ###
+连接方式选择用自定义连接串连接，连接串格式如下：  
+jdbc:Oracle:thin:@(DESCRIPTION =(ADDRESS_LIST =(ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.0.1)(PORT = 1521))(ADDRESS = (PROTOCOL = TCP)(HOST = 192.168.0.2)(PORT = 1521))(LOAD_BALANCE = ON)(FAILOVER =ON))(CONNECT_DATA = (SERVER = DEDICATED)(INSTANCE_ROLE = ANY)(FAILOVER_MODE = (TYPE = SELECT)(METHOD = BASIC))(SERVICE_NAME = orcl))) 
+
