@@ -18,6 +18,6 @@ GeoGlobeServer登录运维时提示“系统数据库中域信息不存在，请
  `  <URL>jdbc:sqlite:C:\Program Files\GeoGlobe\Server\support\dbscript\sqlite\GeoGlobe.db</URL>`
 找到`GGS_SR_APPSERVER`表，查看该表中IP、端口等信息是否与①中配置的一样  
 
-3）将不一致的信息进行修改，重启GeoGlobeServer。  
+3)将不一致的信息进行修改，重启GeoGlobeServer。  
 
     
