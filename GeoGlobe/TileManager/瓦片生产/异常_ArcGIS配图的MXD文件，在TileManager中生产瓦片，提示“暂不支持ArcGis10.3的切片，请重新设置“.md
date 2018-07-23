@@ -1,6 +1,6 @@
 ### 问题描述： ###
 
-ArcGIS配图的MXD文件，在TileManager中生产瓦片，提示“暂不支持ArcGis10.3的切片，请重新设置“
+ArcGIS配图的MXD文件，在TileManager中生产瓦片，提示“暂不支持ArcGis10.3的切片，请重新设置”
 
 
 ### 解决方法： ###  
