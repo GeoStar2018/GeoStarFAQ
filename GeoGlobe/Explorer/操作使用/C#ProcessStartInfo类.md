@@ -1,0 +1,4 @@
+命名空间System.Diagnostics
+
+属性WorkingDirectory，可以设置被启动文件的工作路径。
+这种情况会出现在一些启动的bat文件中，如果不设置该属性，相对路径就有问题。
